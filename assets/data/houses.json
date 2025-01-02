@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Dreamsville House",
+    "imageRaw": "assets/images/raw1.png",
+    "imageCover": "assets/images/cover1.png",
+    "address": "Jl. Sultan Iskandar Muda",
+    "city": "Jakarta Selatan",
+    "bedroom": 6,
+    "bathroom": 4,
+    "description": "The 3 level house that has a modern design, has a large pool and a garage that fits up to four cars and 5 motorbike with other bycycle.",
+    "profile": "assets/images/profile.png",
+    "owner": "Garry Allen",
+    "gallery": [
+      "assets/images/gallery1.png",
+      "assets/images/gallery2.png",
+      "assets/images/gallery3.png",
+      "assets/images/gallery4.png"
+    ],
+    "price": 2500000000
+  },
+  {
+    "name": "Paradise Villa",
+    "imageRaw": "assets/images/raw2.png",
+    "imageCover": "assets/images/cover2.png",
+    "address": "Jl. Diponegoro",
+    "city": "Jakarta Selatan",
+    "bedroom": 4,
+    "bathroom": 3,
+    "description": "The 3 level house that has a modern design, has a large pool and a garage that fits up to four cars and 5 motorbike with other bycycle.",
+    "profile": "assets/images/profile.png",
+    "owner": "Garry Allen",
+    "gallery": [
+      "assets/images/gallery1.png",
+      "assets/images/gallery2.png",
+      "assets/images/gallery3.png",
+      "assets/images/gallery4.png"
+    ],
+    "price": 1800000000
+  },
+  {
+    "name": "Seaside Cottage",
+    "imageRaw": "assets/images/raw3.png",
+    "imageCover": "assets/images/cover3.png",
+    "address": "Jl. Pantai Indah",
+    "city": "Jakarta Selatan",
+    "bedroom": 3,
+    "bathroom": 2,
+    "description": "The 3 level house that has a modern design, has a large pool and a garage that fits up to four cars and 5 motorbike with other bycycle.",
+    "profile": "assets/images/profile.png",
+    "owner": "Garry Allen",
+    "gallery": [
+      "assets/images/gallery1.png",
+      "assets/images/gallery2.png",
+      "assets/images/gallery3.png",
+      "assets/images/gallery4.png"
+    ],
+    "price": 1200000000
+  },
+  {
+    "name": "Orchad House",
+    "imageRaw": "assets/images/raw4.png",
+    "imageCover": "assets/images/cover4.png",
+    "address": "Jl. Sultan Iskandar Muda",
+    "city": "Jakarta Selatan",
+    "bedroom": 6,
+    "bathroom": 4,
+    "description": "The 3 level house that has a modern design, has a large pool and a garage that fits up to four cars and 5 motorbike with other bycycle.",
+    "profile": "assets/images/profile.png",
+    "owner": "Garry Allen",
+    "gallery": [
+      "assets/images/gallery1.png",
+      "assets/images/gallery2.png",
+      "assets/images/gallery3.png",
+      "assets/images/gallery4.png"
+    ],
+    "price": 2500000000
+  },
+  {
+    "name": "The Hollies House",
+    "imageRaw": "assets/images/raw5.png",
+    "imageCover": "assets/images/cover5.png",
+    "address": "Jl. Cilandak Tengah",
+    "city": "Jakarta Selatan",
+    "bedroom": 5,
+    "bathroom": 2,
+    "description": "The 3 level house that has a modern design, has a large pool and a garage that fits up to four cars and 5 motorbike with other bycycle.",
+    "profile": "assets/images/profile.png",
+    "owner": "Garry Allen",
+    "gallery": [
+      "assets/images/gallery1.png",
+      "assets/images/gallery2.png",
+      "assets/images/gallery3.png",
+      "assets/images/gallery4.png"
+    ],
+    "price": 2000000000
+  },
+  {
+    "name": "Sea Breezes House",
+    "imageRaw": "assets/images/raw5.png",
+    "imageCover": "assets/images/cover5.png",
+    "address": "Jl. Cilandak Tengah",
+    "city": "Jakarta Selatan",
+    "bedroom": 6,
+    "bathroom": 4,
+    "description": "The 3 level house that has a modern design, has a large pool and a garage that fits up to four cars and 5 motorbike with other bycycle.",
+    "profile": "assets/images/profile.png",
+    "owner": "Garry Allen",
+    "gallery": [
+      "assets/images/gallery1.png",
+      "assets/images/gallery2.png",
+      "assets/images/gallery3.png",
+      "assets/images/gallery4.png"
+    ],
+    "price": 2500000000
+  }
+]
