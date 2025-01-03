@@ -1,6 +1,6 @@
+import 'package:badges/badges.dart' as badges;
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
-import 'package:badges/badges.dart' as badges;
 import 'package:home_rent/core/constants/app_assets.dart';
 
 class HeaderWidget extends StatefulWidget {
