@@ -41,9 +41,12 @@ class GallerySection extends StatelessWidget {
                     context: context,
                     builder: (context) {
                       return Dialog(
-                        child: Image.asset(
-                          gallery[index],
-                          fit: BoxFit.contain,
+                        child: SizedBox(
+                          height: MediaQuery.of(context).size.height * 0.5,
+                          child: Image.asset(
+                            gallery[index],
+                            fit: BoxFit.contain,
+                          ),
                         ),
                       );
                     },
